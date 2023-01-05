@@ -41,4 +41,4 @@
 
 <br>
 <p align="center">### 👨‍💻 My 42 status</p>
-<p align="center"><img src="[https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227]"/></p>
+<p align="center"><img src="[https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227]"></p>
