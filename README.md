@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TalhaAksoy</h1>
+<h1 align="center">Hi 👋, I'm Taha Çelik</h1>
 
 <details align="center">
 	<summary><b>Programming Language 💻</b></summary>
@@ -42,4 +42,4 @@
 <br>
 <p align="center">### 👨‍💻 My 42 status</p>
 
-[![muhcelik's 42 stats](https://badge42.vercel.app/api/v2/clcj84fep00490glghp4qorh4/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)
+<p [![muhcelik's 42 stats](https://badge42.vercel.app/api/v2/clcj84fep00490glghp4qorh4/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42) /p>
