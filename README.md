@@ -42,4 +42,4 @@
 <br>
 <p align="center">### 👨‍💻 My 42 status</p>
 
-<p [![muhcelik's 42 stats](https://badge42.vercel.app/api/v2/clcj84fep00490glghp4qorh4/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)</p>
+<p[![muhcelik's 42 stats](https://badge42.vercel.app/api/v2/clcj84fep00490glghp4qorh4/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)</p>
