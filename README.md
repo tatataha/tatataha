@@ -40,6 +40,10 @@
 </details>
 
 <br>
+
+<p align="center">![Github stats 2](https://github-readme-stats.vercel.app/api?username=tatataha&show_icons=true&theme=radical)/></p>
+
+<br>
 <p align="center">👨‍💻 My 42 status</p>
 <p align="center"><img src="https://badge42.vercel.app/api/v2/clcj84fep00490glghp4qorh4/stats?cursusId=21&coalitionId=229"/></p>
 <p align="center">Libft 🚀</p>
