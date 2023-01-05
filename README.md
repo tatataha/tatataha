@@ -40,7 +40,7 @@
 </details>
 
 <br>
-<p align="center">### 👨‍💻 My 42 status</p>
+<p align="center">👨‍💻 My 42 status</p>
 <p align="center"><img src="https://badge42.vercel.app/api/v2/clcj84fep00490glghp4qorh4/stats?cursusId=21&coalitionId=229"/></p>
 <p align="center">Libft 🚀</p>
 <p align="center"><img src="https://badge42.vercel.app/api/v2/clcj84fep00490glghp4qorh4/project/2905818"/></p>
