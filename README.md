@@ -4,7 +4,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,php,next.js,js,ts)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=docker,git,bash,linux,wordpress,vscode,vim,macos)](https://skillicons.dev)
 
